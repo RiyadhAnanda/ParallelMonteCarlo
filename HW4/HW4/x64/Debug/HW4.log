@@ -1,0 +1,4 @@
+﻿  HW4.cpp
+C:\Users\riyad\OneDrive\Desktop\School\Parallel Programming\HW4\HW4\HW4.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\riyad\OneDrive\Desktop\School\Parallel Programming\HW4\HW4\HW4.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW4.vcxproj -> C:\Users\riyad\OneDrive\Desktop\School\Parallel Programming\HW4\x64\Debug\HW4.exe
